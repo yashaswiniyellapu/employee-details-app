@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmployeeDetails</string>
+    <string name="emp_name">EmployeeName</string>
+    <string name="emp_id">EmployeeId</string>
+    <string name="confirm_button">confirm</string>
+    <string name="profession">Role</string>
+    <string name="date_of_join">DateOfJoin</string>
+    <string name="experience">PreviousExperience</string>
+</resources>
